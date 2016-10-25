@@ -1,32 +1,25 @@
-测试:
-  path: /overview/overview.html
 快速入门:
-  二级菜单A二级菜单A:
+  5分钟入门:
     path: /path/to/article
-  二级菜单B:
-      三级菜单A:
-        path: /path/to/article
-      三级菜单B:
-        path: /path/to/article
-  二级菜单C:
+  设备接入:
     path: /path/to/article
-  二级菜单D:
-      三级菜单A:
-        path: /path/to/article
-      三级菜单B:
-        path: /path/to/article
-一级菜单C:
-  二级菜单A:
+  APP开发:
     path: /path/to/article
-  二级菜单B:
-      三级菜单A:
-        path: /path/to/article
-      三级菜单B:
-        path: /path/to/article
-  二级菜单C:
+设备开发:
+  path:/path/to/article
+APP开发:
+  ios SDK:
     path: /path/to/article
-  二级菜单D:
-      三级菜单A:
-        path: /path/to/article
-      三级菜单B:
-        path: /path/to/article
+  Android SDK:
+    path: /path/to/article
+  微信SDK:
+    path: /path/to/article
+云平台:
+  业务云:
+    path: /path/to/article
+  D3:
+    path: /path/to/article
+  全球部署:
+    path: /path/to/article
+API:
+  path:/path/to/article
